@@ -439,6 +439,7 @@ main {
   width: 15rem;
   border-radius: 2.0rem;
   object-fit: fill;
+  border-image-width: 12;
 }
 
 /* SKILLS SECTION STYLING */
@@ -490,7 +491,7 @@ h3 {
 
 .project-main-info p > a {
   font-family: "Satoshi 700";
-  color: rgb(29, 228, 255);
+  color: rgb(84, 110, 156);
 }
 
 .project-main-info p > a:hover {
